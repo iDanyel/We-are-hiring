@@ -1,0 +1,13 @@
+{
+    "companies":["Google", "Amazon"],
+    "departments":[
+		{
+	    "companyName": "Google",
+            "departmentNames": ["IT", "Management", "Marketing", "Finance"]
+        },
+        {
+            "companyName": "Amazon",
+            "departmentNames": ["IT", "Management", "Marketing", "Finance"]
+        }
+    ]
+}

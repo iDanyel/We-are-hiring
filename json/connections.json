@@ -1,0 +1,52 @@
+{
+    "connections":[
+	{
+	    	"firstNode": "Daniel Edmund",
+	    	"secondNode": "Julia Matvei"
+	},
+	{
+	    	"firstNode": "Tamara Haci",
+	    	"secondNode": "Linette Spartak"
+	},
+	{
+ 	    	"firstNode": "Daniel Edmund",
+	    	"secondNode": "Leyla Stacy"
+	},
+	{
+	    	"firstNode": "Tamara Haci",
+	    	"secondNode": "Leyla Stacy"
+	},
+	{
+	    	"firstNode": "Linette Spartak",
+	    	"secondNode": "Bryson Reenie"
+	},
+	{
+	    	"firstNode": "Tamara Haci",
+	    	"secondNode": "Steward Goodwin"
+	},
+	{
+	    	"firstNode": "Leyla Stacy",
+	    	"secondNode": "Rolland Lyla"
+	},
+	{
+	    	"firstNode": "Rolland Lyla",
+	    	"secondNode": "Damian Bodhi"
+	},
+	{
+            	"firstNode": "Leyla Stacy",
+	    	"secondNode": "Janine Woody"
+	},
+	{
+	    	"firstNode": "Shana Addy",
+	    	"secondNode": "Darrell Lillie"
+	},
+	{
+	    	"firstNode": "Julia Matvei",
+            "secondNode": "Jonie Phillip"
+	},
+	{
+	    	"firstNode": "Shana Addy",
+	    	"secondNode": "Bryson Reenie"
+	}
+    ]
+}

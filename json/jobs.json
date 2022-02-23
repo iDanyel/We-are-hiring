@@ -1,0 +1,45 @@
+{
+    "jobs":[
+    	{
+    		"companyName": "Google",
+    		"departmentName": "IT",
+    		"jobName": "SDE",
+    		"noOfEmployees": 1,
+    		"jobSalary": 10000,
+    		"graduationYearConstraint":[2002, 2020],
+    		"experience":[2, 6],
+    		"average":[8, 2000000000]
+    	},
+    	{
+    		"companyName": "Google",
+    		"departmentName": "IT",
+    		"jobName": "SDEI",
+    		"noOfEmployees": 1,
+    		"jobSalary": 5000,
+    		"graduationYearConstraint":[-2000000000, 2000000000],
+    		"experience":[0, 2],
+    		"average":[9, 2000000000]
+    	},
+    	{
+    		"companyName": "Amazon",
+    		"departmentName": "IT",
+    		"jobName": "SDE",
+    		"noOfEmployees": 1,
+    		"jobSalary": 12000,
+    		"graduationYearConstraint":[2014, 2020],
+    		"experience":[1, 2000000000],
+    		"average":[9, 2000000000]
+    	},
+    	{
+    		"companyName": "Amazon",
+    		"departmentName": "IT",
+    		"jobName": "SDEI",
+    		"noOfEmployees": 1,
+    		"jobSalary": 6000,
+    		"graduationYearConstraint":[-2000000000, 2000000000],
+    		"experience":[0, 2],
+    		"average":[9.35, 2000000000]
+    	}
+    ]
+}
+
